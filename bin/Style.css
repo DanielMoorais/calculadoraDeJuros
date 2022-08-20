@@ -1,0 +1,39 @@
+.Label{
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-text-fill:  #fbffcd;
+}
+
+.TextField{
+    -fx-background-color: #001f36;
+    -fx-border-radius: 10;
+    -fx-border-color: #fbffcd;
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-text-fill:#fbffcd;
+}
+
+.slider{
+    -fx-color: #fbffcd;
+    -fx-font-size: 18;
+    -fx-text-fill: #fbffcd;
+}
+
+.slider .thumb {
+    -fx-background-color:  #fbffcd;
+}
+
+.slider .track{
+    -fx-background-color: #001f36;
+    -fx-border-color: #fbffcd;
+    -fx-border-radius: 10;
+}
+
+.Button{
+    -fx-background-color: #001f36;
+    -fx-border-radius: 10;
+    -fx-border-color: #fbffcd;
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-text-fill:#fbffcd;
+}
